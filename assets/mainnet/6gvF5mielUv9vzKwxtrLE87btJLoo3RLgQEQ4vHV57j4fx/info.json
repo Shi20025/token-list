@@ -1,0 +1,13 @@
+{
+  "name": "JadeMine DAO Token",
+  "symbol": "JDT",
+  "decimals": 9,
+  "address": "6gvF5mielUv9vzKwxtrLE87btJLoo3RLgQEQ4vHV57j4fx",
+  "logoURI": "https://raw.githubusercontent.com/Shi20025/token-list/main/assets/mainnet/YOUR_SOLANA_TOKEN_ADDRESS/logo.png",
+  "tags": ["dao", "governance", "utility"],
+  "extensions": {
+    "website": "https://jademinedao.live",
+    "twitter": "https://twitter.com/JadeMineDAO",
+    "description": "JDT is the governance token of JadeMine DAO, powering decentralized mining investment access across Africa and Asia."
+  }
+}
